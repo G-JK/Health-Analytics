@@ -1,5 +1,5 @@
 # Health-Analytics
-A mini analytics  SQL based project
+SQL based mini analytics project
 
 Dataset consists of users' records for Blood Sugar and Blood Pressure over the time period.
 
